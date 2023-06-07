@@ -1,0 +1,12 @@
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\bin\Debug\net6.0\DataLibrary.deps.json
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\bin\Debug\net6.0\DataLibrary.dll
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\bin\Debug\net6.0\DataLibrary.pdb
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.AssemblyInfo.cs
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.dll
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\refint\DataLibrary.dll
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\DataLibrary.pdb
+C:\Users\Nesto\OneDrive\Escritorio\Acceso a Datos y transacciones\DataLibrary\obj\Debug\net6.0\ref\DataLibrary.dll
